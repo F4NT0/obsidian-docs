@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d5a1f6c85dbf88b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neovim/Neovim Videos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adc91b0425300ae8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Nina/2023-09-14 Nina Médico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a5a30874d8f7ac8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Nina/2023-09-14 Nina Médico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c6ec0acd9bc78fa1",
             "type": "leaf",
             "state": {
@@ -52,27 +16,19 @@
             }
           },
           {
-            "id": "c8ac5a4a7f2bb73b",
+            "id": "ef78354ff2df4958",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Nina/2024-01-14 8 MESES NINA.md",
+                "file": "Pessoal/Meu casamento.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "32fdc2e829b1f11f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pessoal/Meu casamento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pessoal/Meu casamento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pessoal/Meu casamento.md"
+              }
             }
           },
           {
@@ -207,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 497.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,8 +183,12 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "806d60e9e73b11d2",
+  "active": "ef78354ff2df4958",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Pessoal/Meu casamento.md",
+    "Pessoal",
+    "Neovim/Neovim Videos.md",
     "Calendar/Nina/2024-01-14 8 MESES NINA.md",
     "Calendar/Nina/2023-12-14 7 MESES NINA.md",
     "Calendar/Nina/2023-11-14 6 MESES NINA.md",
@@ -238,7 +202,6 @@
     "Calendar/Work",
     "Calendar/Nina",
     "Calendar/Work/2023-09-14 Work.md",
-    "Neovim/Neovim Videos.md",
     "Calendar",
     "Neovim/Utilizando vim-neovim.md",
     "Untitled.canvas",
@@ -246,7 +209,6 @@
     "Pasted image 20230913143727.png",
     "Intellij",
     "Visual Studio",
-    "Vscode",
-    "Microsoft"
+    "Vscode"
   ]
 }
