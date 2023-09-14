@@ -17,5 +17,7 @@
   "obsidian-reminder-plugin",
   "obsidian-statusbar-pomo",
   "obsidian-plugin-toc",
-  "obsidian-tracker"
+  "obsidian-tracker",
+  "multi-column-markdown",
+  "google-calendar"
 ]

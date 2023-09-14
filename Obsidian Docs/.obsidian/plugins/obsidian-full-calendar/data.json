@@ -2,7 +2,7 @@
   "calendarSources": [
     {
       "type": "local",
-      "color": "#fdaf08",
+      "color": "#08ecfd",
       "directory": "Calendar/Work"
     },
     {
@@ -17,17 +17,17 @@
     },
     {
       "type": "local",
-      "color": "#052cf0",
+      "color": "#f0bd05",
       "directory": "Calendar/CFC"
     },
     {
       "type": "local",
-      "color": "#f22b07",
+      "color": "#f20707",
       "directory": "Calendar/Importants"
     }
   ],
   "defaultCalendar": 0,
-  "firstDay": 0,
+  "firstDay": 1,
   "initialView": {
     "desktop": "dayGridMonth",
     "mobile": "timeGrid3Days"
