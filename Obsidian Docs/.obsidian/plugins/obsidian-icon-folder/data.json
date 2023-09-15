@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": "#c9d1d9",
     "recentlyUsedIcons": [
+      "TiWorldShare",
+      "FabMarkdown",
+      "FabKeyboard",
       "FabImage",
-      "FasNeos",
-      "FasTerminal",
-      "FabTerminal",
-      "FasPersonWalking"
+      "FasNeos"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,6 +35,13 @@
   "Microsoft/Visual Studio": "FabFileCode",
   "Microsoft/Vscode": "FabFileCode",
   "Microsoft/Powershell": "FasTerminal",
-  "Microsoft/Powershell/Ativar Scripts.md": "FabTerminal",
-  "images": "FabImage"
+  "images": "FabImage",
+  "Markdown/LATEX.md": "FabMarkdown",
+  "Markdown/Definindo bloco de infos importantes.md": "FabMarkdown",
+  "Markdown/Títulos.md": "FabMarkdown",
+  "Markdown/Títulos Avançados.md": "FabMarkdown",
+  "Microsoft/Powershell/Criando um Script.md": "FabTerminal",
+  "Microsoft/Powershell/Configurando Powershell.md": "FasTerminal",
+  "Websites": "TiWorldShare",
+  "Websites/Resumo de Websites.md": "TiWorldShare"
 }
