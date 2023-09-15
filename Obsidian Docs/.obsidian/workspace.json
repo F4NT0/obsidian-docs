@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown/Títulos Avançados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown/Títulos Avançados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Markdown/Títulos Avançados.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,11 +166,11 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "806d60e9e73b11d2",
+  "active": "237629e11769e7e7",
   "lastOpenFiles": [
+    "Markdown/Títulos Avançados.md",
     "images",
     "Markdown/Títulos.md",
-    "Markdown/Títulos Avançados.md",
     "Microsoft/Powershell/Ativar Scripts.md",
     "Microsoft/Powershell",
     "Estrutura de dados/1 - TAD.md",
@@ -207,7 +203,6 @@
     "Calendar/CFC",
     "Calendar/Lili",
     "Calendar/Work",
-    "Calendar/Nina",
     "Untitled.canvas",
     "Pasted image 20230913143727.png"
   ]
