@@ -4,91 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b57d76fd2542a1f2",
+        "id": "880b7a2c216f5496",
         "type": "tabs",
         "children": [
           {
-            "id": "c93d1a1fe1bdfc8d",
+            "id": "c60ca0fce3fb3692",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/CFC/2023-09-19 CFC - Aula 7-8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58bc5b252ec5f502",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "69763ac33561bc00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Google Calendar/My Google Calendar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "184c7d4a58317a37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/CFC/2023-09-29 CFC - Aula 19-20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89fed5bf2375c72f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Google Calendar/My Google Calendar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2199fbaa8f5f2186",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Work/2023-09-20 FERIADO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dec7b0d552a4e318",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Work/2023-09-20 FERIADO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Work/2023-09-20 FERIADO.md",
+                "file": "Markdown/Títulos Avançados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Work/2023-09-20 FERIADO.md",
+                "file": "Markdown/Títulos Avançados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Work/2023-09-20 FERIADO.md"
+                "file": "Markdown/Títulos Avançados.md"
               }
             }
           },
@@ -243,8 +170,18 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "58bc5b252ec5f502",
+  "active": "806d60e9e73b11d2",
   "lastOpenFiles": [
+    "images",
+    "Markdown/Títulos.md",
+    "Markdown/Títulos Avançados.md",
+    "Microsoft/Powershell/Ativar Scripts.md",
+    "Microsoft/Powershell",
+    "Estrutura de dados/1 - TAD.md",
+    "Estrutura de dados/2 - Listas.md",
+    "Estrutura de dados/4 - Árvores.md",
+    "Estrutura de dados",
+    "Calendar/CFC/2023-09-19 CFC - Aula 7-8.md",
     "Calendar/Work/(Every F,R,W,T,M) CI-CD Meeting.md",
     "Calendar/Work/(Every F,R,W,T,M) Daily Meeting.md",
     "Calendar/Work/2023-09-20 FERIADO.md",
@@ -256,7 +193,6 @@
     "Calendar/CFC/2023-09-26 CFC - Aula 13-14.md",
     "Calendar/CFC/2023-09-22 CFC - Aula 11-12.md",
     "Calendar/CFC/2023-09-21 CFC - Aula 9-10.md",
-    "Calendar/CFC/2023-09-19 CFC - Aula 7-8.md",
     "Calendar/CFC/2023-09-18 CFC - Aula 5-6.md",
     "Calendar/CFC/2023-09-13 CFC - Aula 3-4.md",
     "Calendar/CFC/2023-09-12 CFC - Aula 1-2.md",
@@ -265,23 +201,14 @@
     "Calendar/Google Calendar/Daily View.md",
     "Calendar/Google Calendar",
     "Markdown/Definindo bloco de infos importantes.md",
-    "Calendar/Nina/2023-09-18 Nina Vacinas.md",
-    "Visual Studio/teste.md",
     "Markdown",
-    "Pessoal/Meu casamento.md",
-    "Untitled.md",
     "Pessoal",
-    "Neovim/Neovim Videos.md",
-    "Calendar/Nina/2024-01-14 8 MESES NINA.md",
-    "Calendar/Nina/2023-12-14 7 MESES NINA.md",
     "Calendar/Importants",
     "Calendar/CFC",
     "Calendar/Lili",
     "Calendar/Work",
     "Calendar/Nina",
-    "Calendar",
     "Untitled.canvas",
-    "Pasted image 20230913143727.png",
-    "Intellij"
+    "Pasted image 20230913143727.png"
   ]
 }
