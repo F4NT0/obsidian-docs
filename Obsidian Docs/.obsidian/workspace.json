@@ -8,14 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4526fe6a1e8ceea9",
+            "id": "2b077a77ae194cc4",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "full-calendar-view",
               "state": {}
             }
+          },
+          {
+            "id": "c1de5cd00473cd7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown/Definindo bloco de infos importantes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Markdown/Definindo bloco de infos importantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Markdown/Definindo bloco de infos importantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Markdown/Definindo bloco de infos importantes.md"
+              }
             }
           },
           {
@@ -166,12 +183,23 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "4526fe6a1e8ceea9",
+  "active": "c1de5cd00473cd7b",
   "lastOpenFiles": [
-    "Microsoft/Csharp/Criando um projeto console.md",
-    "1.png",
-    "Microsoft/Csharp/Organizando os estudos.md",
+    "Markdown/Escrevendo em Markdown.md",
+    "Markdown/LATEX.md",
+    "Markdown/Títulos.md",
+    "Microsoft/Programas Microsoft.md",
+    "Estrutura de dados/Revisão de Estruturas de dados.md",
+    "Microsoft/Powershell/Configurando Powershell.md",
+    "Neovim/Neovim como IDE.md",
+    "Neovim/Neovim Videos.md",
+    "Neovim/Comandos do VIM.md",
+    "images/Pasted image 20230916041755.png",
     "images/Microsoft/csharp/console-project/1.png",
+    "Criando um projeto console.md",
+    "1.png",
+    "Microsoft/Csharp/Criando um projeto console.md",
+    "Microsoft/Csharp/Organizando os estudos.md",
     "images/Microsoft/csharp/console-project/14.png",
     "images/Microsoft/csharp/console-project/13.png",
     "images/Microsoft/csharp/console-project/12.png",
@@ -179,7 +207,6 @@
     "images/Microsoft/csharp/console-project/10.png",
     "images/Microsoft/csharp/console-project/9.png",
     "images/Microsoft/csharp/console-project/8.png",
-    "images/Microsoft/csharp/console-project/7.png",
     "images/Microsoft/csharp/console-project",
     "images/Microsoft/csharp/Nova pasta",
     "images/Microsoft/csharp",
@@ -187,19 +214,11 @@
     "images/Microsoft",
     "images/Nova pasta",
     "Microsoft/Csharp/Linguagem Csharp.md",
-    "Criando um projeto console.md",
-    "Microsoft/Powershell/Configurando Powershell.md",
     "Microsoft/Csharp",
     "Markdown/Títulos Avançados.md",
-    "Neovim/Neovim Videos.md",
-    "Neovim/Neovim como IDE.md",
-    "Neovim/Comandos do VIM.md",
-    "Markdown/Escrevendo em Markdown.md",
-    "Microsoft/Programas Microsoft.md",
     "Estrutura de dados/1 - TAD.md",
     "Estrutura de dados/2 - Listas.md",
     "Estrutura de dados/4 - Árvores.md",
-    "Estrutura de dados/Revisão de Estruturas de dados.md",
     "Calendar/Calendário Pessoal.md",
     "Calendar/CFC/Aulas Práticas de direção.md",
     "Calendar/Importants/Eventos Importantes.md",
@@ -209,7 +228,6 @@
     "Microsoft/Visual Studio/teste.md",
     "Calendar/Google Calendar/My Google Calendar.md",
     "Calendar/Nina/Calendário da Nina.md",
-    "Pessoal/Progresso.md",
     "Obsidian",
     "Websites",
     "images",

@@ -25,7 +25,7 @@
       "query": "path:Pessoal  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 14092274
       }
     },
     {
@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "path:Neovim  ",
+      "color": {
+        "a": 1,
+        "rgb": 8708178
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5148142543571679,
+  "scale": 1.1408529223204955,
   "close": true
 }

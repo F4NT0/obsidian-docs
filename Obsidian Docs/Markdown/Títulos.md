@@ -17,7 +17,3 @@ Como fica o exemplo de cima:
 #### Título 4
 
 ##### Título 5
-
----
-
-Próximo Tópico: [Títulos avançados em KateX](https://github.com/F4NT0/Documentation-as-code/wiki/Titulos-Avancados)
