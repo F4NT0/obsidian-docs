@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microsoft/Powershell/Configurando Powershell.md",
+                "file": "Microsoft/Csharp/Criando um projeto console.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microsoft/Powershell/Configurando Powershell.md",
+                "file": "Microsoft/Csharp/Criando um projeto console.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microsoft/Powershell/Configurando Powershell.md",
+                "file": "Microsoft/Csharp/Criando um projeto console.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microsoft/Powershell/Configurando Powershell.md"
+                "file": "Microsoft/Csharp/Criando um projeto console.md"
               }
             }
           },
@@ -176,9 +176,31 @@
   },
   "active": "4526fe6a1e8ceea9",
   "lastOpenFiles": [
+    "1.png",
+    "Microsoft/Csharp/Organizando os estudos.md",
+    "images/Microsoft/csharp/console-project/1.png",
+    "Microsoft/Csharp/Criando um projeto console.md",
+    "images/Microsoft/csharp/console-project/14.png",
+    "images/Microsoft/csharp/console-project/13.png",
+    "images/Microsoft/csharp/console-project/12.png",
+    "images/Microsoft/csharp/console-project/11.png",
+    "images/Microsoft/csharp/console-project/10.png",
+    "images/Microsoft/csharp/console-project/9.png",
+    "images/Microsoft/csharp/console-project/8.png",
+    "images/Microsoft/csharp/console-project/7.png",
+    "images/Microsoft/csharp/console-project/6.png",
+    "images/Microsoft/csharp/console-project",
+    "images/Microsoft/csharp/Nova pasta",
+    "images/Microsoft/csharp",
+    "images/Microsoft/Nova pasta",
+    "images/Microsoft",
+    "images/Nova pasta",
+    "Microsoft/Csharp/Linguagem Csharp.md",
+    "Criando um projeto console.md",
+    "Microsoft/Powershell/Configurando Powershell.md",
+    "Microsoft/Csharp",
     "Markdown/Títulos Avançados.md",
     "Neovim/Neovim Videos.md",
-    "Pasted image 20230916041755.png",
     "Neovim/Neovim como IDE.md",
     "Neovim/Comandos do VIM.md",
     "Markdown/Escrevendo em Markdown.md",
@@ -197,23 +219,9 @@
     "Calendar/Google Calendar/My Google Calendar.md",
     "Calendar/Nina/Calendário da Nina.md",
     "Pessoal/Progresso.md",
-    "Pessoal/Meu casamento.md",
     "Obsidian",
-    "Websites/Resumo de Websites.md",
-    "Microsoft/Powershell/Criando um Script.md",
     "Websites",
-    "Microsoft/Powershell/Configurando Powershell.md",
-    "Calendar/CFC/2023-09-18 CFC - Aula 5-6.md",
-    "Calendar/CFC/2023-09-13 CFC - Aula 3-4.md",
     "images",
-    "Microsoft/Powershell",
-    "Estrutura de dados",
-    "Calendar/Google Calendar",
-    "Markdown",
-    "Pessoal",
-    "Calendar/Importants",
-    "Calendar/CFC",
-    "Untitled.canvas",
-    "Pasted image 20230913143727.png"
+    "Untitled.canvas"
   ]
 }
