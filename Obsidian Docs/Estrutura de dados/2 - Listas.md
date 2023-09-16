@@ -97,7 +97,7 @@ Nome | Definição
 **n** | variavel de entrada de um Nodo
 definirElemento(T e) | método para definir o tipo de elemento do Nodo
 pegarElemento() | Método para retornar o elemento
-definirProximo(Nodo<T> n) | Método para definir qual nodo será o proximo do atual
+definirProximo(Nodo/<T/> n) | Método para definir qual nodo será o proximo do atual
 pegarProximo() | Método para retornar o proximo Nodo
 
 

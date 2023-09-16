@@ -2,18 +2,18 @@
 
 * Árvores são estruturas de dados que caracterizam uma relação de hierarquia entre os dados que a compõem, ou seja, para se conectar com um dado, deve passar por um dado que esteja conectado com ele anteriormente
 * Normalmente uma árvore é caracterizadas como bolinhas que se conectam uma com as outras, como mostrado abaixo:
-![exemplo_arvore](imagens_arvores/arvore.png)
+![exemplo_arvore](https://github.com/F4NT0/Algoritmos_Estrutura_Dados/wiki/imagens_arvores/arvore.png)
 * Cada bolinha de uma árvore é um Nodo, onde uma árvore em si possui um ou mais Nodos
 
 #### Terminologias
 
 * O primeiro Nodo da árvore(a ponta bem acima) é chamado de **raiz** da árvore, porque estamos vendo uma árvore de cabeça para baixo
 * Todo o resto da árvore é uma **Sub-árvore** da árvore total, tendo sua própria raiz internamente dessa sub-árvore, ou seja, cada Nodo da árvore é raiz de uma sub-árvore
-![raiz_subarvore](imagens_arvores/raiz.png)
+![raiz_subarvore](https://github.com/F4NT0/Algoritmos_Estrutura_Dados/wiki/imagens_arvores/raiz.png)
 * **Pai,irmãos e filhos**:
     * o Nodo raiz de uma árvore é chamada de **Pai** e todos os Nodos que estiverem ligados a ele são **filhos**
     * Quando tem dois Nodos, um do lado do outro, são chamados de **Irmãos**
-![pai_filhos](imagens_arvores/pai_filho.png)
+![pai_filhos](https://github.com/F4NT0/Algoritmos_Estrutura_Dados/wiki/imagens_arvores/pai_filho.png)
 
 * **Grau e Nível**
     * **Grau** é o número de subárvores de um Nodo, ou seja, quantos Nodos estão conectados ao Nodo visto
@@ -30,16 +30,16 @@
         * Grau do Nodo H: 0(**Nodo Folha**)
         * Grau do Nodo I: 0(**Nodo Folha**)
         * Grau do Nodo J: 0(**Nodo Folha**)
-![grau_nivel](imagens_arvores/grau_nivel.png)
+![grau_nivel](https://github.com/F4NT0/Algoritmos_Estrutura_Dados/wiki/imagens_arvores/grau_nivel.png)
 * **Altura da Árvore**:
     * Altura é o tamanho total da árvore, sendo que a raiz da árvore é contado como zero
     * Altura total da árvore é a altura das folhas da árvore
     * Altura da árvore abaixo: 2
-![altura](imagens_arvores/altura.png)
+![altura](https://github.com/F4NT0/Algoritmos_Estrutura_Dados/wiki/imagens_arvores/altura.png)
 
 * **Revisão das Nomenclaturas**
     * O primeiro Nodo mais acima é a **Raiz**
     * Os Nodos internos da árvore são os **Nodos internos** ou  **Galhos**
     * Se retiramos o Nodo Raiz de uma árvore, teremos várias outras árvores, que chamamos nesse momento de **Floresta**
 
-![definicao](imagens_arvores/Definicao.png)
+![definicao](https://github.com/F4NT0/Algoritmos_Estrutura_Dados/wiki/imagens_arvores/Definicao.png)

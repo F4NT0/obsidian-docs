@@ -1,4 +1,10 @@
+## Pages
 
+[[Daily View]]
+[[Month View]]
+[[Schedule View]]
+
+---
 ## Schedule for today
 
 ```gEvent

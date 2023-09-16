@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4a35b5a871b36bd2",
+        "id": "1fc4fcd2fb43cc85",
         "type": "tabs",
         "children": [
           {
-            "id": "39443a245fe48c66",
+            "id": "4526fe6a1e8ceea9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Microsoft/Powershell/Configurando Powershell.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Microsoft/Powershell/Configurando Powershell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Microsoft/Powershell/Configurando Powershell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Microsoft/Powershell/Configurando Powershell.md"
+              }
             }
           },
           {
@@ -166,9 +174,28 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "806d60e9e73b11d2",
+  "active": "4526fe6a1e8ceea9",
   "lastOpenFiles": [
+    "Markdown/Títulos Avançados.md",
+    "Neovim/Neovim Videos.md",
+    "Pasted image 20230916041755.png",
+    "Neovim/Neovim como IDE.md",
+    "Neovim/Comandos do VIM.md",
+    "Markdown/Escrevendo em Markdown.md",
+    "Microsoft/Programas Microsoft.md",
+    "Estrutura de dados/1 - TAD.md",
+    "Estrutura de dados/2 - Listas.md",
+    "Estrutura de dados/4 - Árvores.md",
+    "Estrutura de dados/Revisão de Estruturas de dados.md",
+    "Calendar/Calendário Pessoal.md",
+    "Calendar/CFC/Aulas Práticas de direção.md",
+    "Calendar/Importants/Eventos Importantes.md",
+    "Calendar/Work/Agenda de Trabalho.md",
+    "Pessoal/Vida Pessoal.md",
     "Pessoal/Tarefas.md",
+    "Microsoft/Visual Studio/teste.md",
+    "Calendar/Google Calendar/My Google Calendar.md",
+    "Calendar/Nina/Calendário da Nina.md",
     "Pessoal/Progresso.md",
     "Pessoal/Meu casamento.md",
     "Obsidian",
@@ -176,28 +203,10 @@
     "Microsoft/Powershell/Criando um Script.md",
     "Websites",
     "Microsoft/Powershell/Configurando Powershell.md",
-    "Calendar/CFC/Resumo de Aulas.md",
     "Calendar/CFC/2023-09-18 CFC - Aula 5-6.md",
     "Calendar/CFC/2023-09-13 CFC - Aula 3-4.md",
-    "Calendar/CFC/2023-09-12 CFC - Aula 1-2.md",
-    "Calendar/CFC/2023-09-19 CFC - Aula 7-8.md",
-    "Calendar/CFC/2023-09-21 CFC - Aula 9-10.md",
-    "Calendar/CFC/2023-09-22 CFC - Aula 11-12.md",
-    "Calendar/CFC/2023-09-26 CFC - Aula 13-14.md",
-    "Calendar/CFC/2023-09-27 CFC - Aula 15-16.md",
-    "Calendar/CFC/2023-09-28 CFC - Aula 17-18.md",
-    "Calendar/CFC/2023-09-29 CFC - Aula 19-20.md",
-    "Calendar/Google Calendar/Schedule View.md",
-    "Calendar/Google Calendar/My Google Calendar.md",
-    "Calendar/Google Calendar/Daily View.md",
-    "Markdown/Títulos Avançados.md",
-    "Markdown/Títulos.md",
-    "Markdown/Definindo bloco de infos importantes.md",
-    "Markdown/LATEX.md",
     "images",
     "Microsoft/Powershell",
-    "Estrutura de dados/1 - TAD.md",
-    "Estrutura de dados/2 - Listas.md",
     "Estrutura de dados",
     "Calendar/Google Calendar",
     "Markdown",

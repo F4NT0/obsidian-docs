@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": "#c9d1d9",
     "recentlyUsedIcons": [
+      "TiMarkdown",
       "TiWorldShare",
       "FabMarkdown",
       "FabKeyboard",
-      "FabImage",
-      "FasNeos"
+      "FabImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,5 +43,6 @@
   "Microsoft/Powershell/Criando um Script.md": "FabTerminal",
   "Microsoft/Powershell/Configurando Powershell.md": "FasTerminal",
   "Websites": "TiWorldShare",
-  "Websites/Resumo de Websites.md": "TiWorldShare"
+  "Websites/Resumo de Websites.md": "TiWorldShare",
+  "Markdown/Escrevendo em Markdown.md": "TiMarkdown"
 }

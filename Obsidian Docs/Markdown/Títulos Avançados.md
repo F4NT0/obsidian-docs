@@ -16,7 +16,7 @@ Quando criamos um bloco especial em KateX, devemos separar cada palavra usando o
 
 `ris:Markdown``ris:Markdown`<table align="center">
     <tr>
-        <td><img src="images/bloco-titulos.png"></td>
+        <td><img src="https://github.com/F4NT0/Documentation-as-code/wiki/images/bloco-titulos.png"></td>
     </tr>
 </table>
 
@@ -32,7 +32,7 @@ Podemos colocar esse bloco junto com um **#** para determinar como título.
 
 <table align="center">
     <tr>
-        <td><img src="images/Titulo-avanc1.png"></td>
+        <td><img src="https://github.com/F4NT0/Documentation-as-code/wiki/images/Titulo-avanc1.png"></td>
     </tr>
 </table>
 
@@ -52,7 +52,7 @@ Dentro de um box:
 
 <table align="center">
     <tr>
-        <td><img src="images/titulo-boxed.png"></td>
+        <td><img src="https://github.com/F4NT0/Documentation-as-code/wiki/images/titulo-boxed.png"></td>
     </tr>
 </table>
 
@@ -62,7 +62,7 @@ Dentro de um box usando a fonte `\sf`:
 
 <table align="center">
     <tr>
-        <td><img src="images/titulo-sf.png"></td>
+        <td><img src="https://github.com/F4NT0/Documentation-as-code/wiki/images/titulo-sf.png"></td>
     </tr>
 </table>
 
@@ -72,7 +72,7 @@ Dentro de um box usando a fonte `\frak`:
 
 <table align="center">
     <tr>
-        <td><img src="images/titulo-frak.png"></td>
+        <td><img src="https://github.com/F4NT0/Documentation-as-code/wiki/images/titulo-frak.png"></td>
     </tr>
 </table>
 
@@ -84,7 +84,7 @@ Mudando a cor do título para vermelho:
 
 <table align="center">
     <tr>
-        <td><img src="images/titulo-red.png"></td>
+        <td><img src="https://github.com/F4NT0/Documentation-as-code/wiki/images/titulo-red.png"></td>
     </tr>
 </table>
 
@@ -94,7 +94,7 @@ Mudando a cor do box e do texto para azul:
 
 <table align="center">
     <tr>
-        <td><img src="images/titulo-boxblue.png"></td>
+        <td><img src="https://github.com/F4NT0/Documentation-as-code/wiki/images/titulo-boxblue.png"></td>
     </tr>
 </table>
 

@@ -5,8 +5,44 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Calendar ",
+      "color": {
+        "a": 1,
+        "rgb": 16593165
+      }
+    },
+    {
+      "query": "path:\"Estrutura de dados\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Pessoal  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Microsoft  ",
+      "color": {
+        "a": 1,
+        "rgb": 367866
+      }
+    },
+    {
+      "query": "path:Markdown  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.48937204379069543,
+  "scale": 0.4289527898087064,
   "close": true
 }
