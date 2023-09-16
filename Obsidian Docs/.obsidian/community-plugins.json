@@ -19,5 +19,6 @@
   "obsidian-plugin-toc",
   "obsidian-tracker",
   "multi-column-markdown",
-  "google-calendar"
+  "google-calendar",
+  "dataview"
 ]

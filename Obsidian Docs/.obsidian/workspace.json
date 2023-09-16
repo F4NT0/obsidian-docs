@@ -11,7 +11,7 @@
             "id": "39443a245fe48c66",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -166,8 +166,10 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "237629e11769e7e7",
+  "active": "806d60e9e73b11d2",
   "lastOpenFiles": [
+    "Pessoal/Tarefas.md",
+    "Pessoal/Progresso.md",
     "Pessoal/Meu casamento.md",
     "Obsidian",
     "Websites/Resumo de Websites.md",
@@ -196,9 +198,7 @@
     "Microsoft/Powershell",
     "Estrutura de dados/1 - TAD.md",
     "Estrutura de dados/2 - Listas.md",
-    "Estrutura de dados/4 - Árvores.md",
     "Estrutura de dados",
-    "Calendar/Work/(Every R,W,T,M) CI-CD Meeting.md",
     "Calendar/Google Calendar",
     "Markdown",
     "Pessoal",
