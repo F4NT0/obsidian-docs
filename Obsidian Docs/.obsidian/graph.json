@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Calendar ",
@@ -25,7 +25,7 @@
       "query": "path:Pessoal  ",
       "color": {
         "a": 1,
-        "rgb": 14092274
+        "rgb": 520919
       }
     },
     {
@@ -39,7 +39,7 @@
       "query": "path:Markdown  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 16777215
       }
     },
     {
@@ -55,6 +55,20 @@
         "a": 1,
         "rgb": 5395168
       }
+    },
+    {
+      "query": "path:Obsidian  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:Programas  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
     }
   ],
   "collapse-display": true,
@@ -67,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5554790375729939,
-  "close": true
+  "scale": 0.5554790375729945,
+  "close": false
 }

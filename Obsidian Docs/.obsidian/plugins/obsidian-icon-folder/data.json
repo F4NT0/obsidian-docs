@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": "#9959d9",
     "recentlyUsedIcons": [
+      "TiFlame",
+      "RiDeleteBack2Line",
+      "LiTerminalSquare",
       "SiObsidian",
-      "TiDiamond",
-      "IbGames",
-      "SiNeovim",
-      "SiMicrosoft"
+      "TiDiamond"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,8 +42,6 @@
   "Markdown/Títulos Avançados.md": "FabMarkdown",
   "Microsoft/Powershell/Criando um Script.md": "SiPowershell",
   "Microsoft/Powershell/Configurando Powershell.md": "SiPowershell",
-  "Websites": "TiWorldShare",
-  "Websites/Resumo de Websites.md": "TiWorldShare",
   "Markdown/Escrevendo em Markdown.md": "TiMarkdown",
   "Microsoft/Csharp": "SiCsharp",
   "Obsidian": "SiObsidian",
@@ -55,5 +53,12 @@
   "Jogos": "IbGames",
   "Jogos/Borderlands 3": "IbGames",
   "Jogos/Borderlands 3/Diamond Keys": "TiDiamond",
-  "Obsidian/Baixando obsidian.md": "SiObsidian"
+  "Obsidian/Baixando obsidian.md": "SiObsidian",
+  "Obsidian/Android": "SiObsidian",
+  "Obsidian/Android/Termux GIT.md": "LiTerminalSquare",
+  "Programas": "TiWorldShare",
+  "Programas/Resumo de Websites.md": "TiWorldShare",
+  "Programas/Utilizando Remove.bg.md": "RiDeleteBack2Line",
+  "Programas/Flameshot - Print Screen.md": "TiFlame",
+  "Obsidian/Entendendo Obsidian.md": "SiObsidian"
 }
