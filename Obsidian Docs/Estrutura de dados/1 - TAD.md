@@ -112,3 +112,9 @@ removerFim() | remove o elemento no final do TAD
     * fim = last
 
 O próximo assunto será sobre [Listas com TAD]()
+
+Método | Utilidade
+-------|----------
+| teste | teste |
+| ----- | ----- |
+|       |       |

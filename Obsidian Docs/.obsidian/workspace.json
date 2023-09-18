@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "1fc4fcd2fb43cc85",
+        "id": "d9f2e7c7cb6a95be",
         "type": "tabs",
         "children": [
           {
-            "id": "2b077a77ae194cc4",
+            "id": "aebb8f8d9424957a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estrutura de dados/1 - TAD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9661fb95e4547b0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Work/(Every F,R,W,T,M) Daily Meeting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21d6005890323378",
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
@@ -16,19 +40,27 @@
             }
           },
           {
-            "id": "c1de5cd00473cd7b",
+            "id": "a0f2a022359d4a32",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "56ae4ed2c350ecca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown/Definindo bloco de infos importantes.md",
+                "file": "Obsidian/Baixando obsidian.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -94,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown/Definindo bloco de infos importantes.md",
+                "file": "Obsidian/Baixando obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown/Definindo bloco de infos importantes.md",
+                "file": "Obsidian/Baixando obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown/Definindo bloco de infos importantes.md"
+                "file": "Obsidian/Baixando obsidian.md"
               }
             }
           },
@@ -161,6 +193,14 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "50acd8a787d18f2c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 6
@@ -183,8 +223,24 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "c1de5cd00473cd7b",
+  "active": "56ae4ed2c350ecca",
   "lastOpenFiles": [
+    "Obsidian/Baixando obsidian.md",
+    "Jogos/Borderlands 3/Borderlands Franquia.md",
+    "Jogos/Borderlands 3/Diamond Keys/Videos.md",
+    "Calendar/Google Calendar/My Google Calendar.md",
+    "Calendar/Work/(Every F,R,W,T,M) Daily Meeting.md",
+    "Estrutura de dados/1 - TAD.md",
+    "Markdown/Definindo bloco de infos importantes.md",
+    "Jogos/Borderlands 3/Diamond Keys",
+    "Jogos/Borderlands 3",
+    "Jogos",
+    "Calendar/Work/2023-09-21 Q3 DFS ALL HANDS.md",
+    "Calendar/Importants/2023-09-20 FERIADO.md",
+    "Calendar/Work/Agenda de Trabalho.md",
+    "Calendar/Importants/Eventos Importantes.md",
+    "Calendar/Importants/2023-09-14 Formatura.md",
+    "Calendar/Work/(Every R,W,T,M) CI-CD Meeting.md",
     "Markdown/Escrevendo em Markdown.md",
     "Markdown/LATEX.md",
     "Markdown/Títulos.md",
@@ -215,22 +271,6 @@
     "images/Nova pasta",
     "Microsoft/Csharp/Linguagem Csharp.md",
     "Microsoft/Csharp",
-    "Markdown/Títulos Avançados.md",
-    "Estrutura de dados/1 - TAD.md",
-    "Estrutura de dados/2 - Listas.md",
-    "Estrutura de dados/4 - Árvores.md",
-    "Calendar/Calendário Pessoal.md",
-    "Calendar/CFC/Aulas Práticas de direção.md",
-    "Calendar/Importants/Eventos Importantes.md",
-    "Calendar/Work/Agenda de Trabalho.md",
-    "Pessoal/Vida Pessoal.md",
-    "Pessoal/Tarefas.md",
-    "Microsoft/Visual Studio/teste.md",
-    "Calendar/Google Calendar/My Google Calendar.md",
-    "Calendar/Nina/Calendário da Nina.md",
-    "Obsidian",
-    "Websites",
-    "images",
     "Untitled.canvas"
   ]
 }

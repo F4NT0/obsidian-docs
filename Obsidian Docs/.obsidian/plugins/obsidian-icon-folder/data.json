@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": "#9959d9",
     "recentlyUsedIcons": [
+      "SiObsidian",
+      "TiDiamond",
+      "IbGames",
       "SiNeovim",
-      "SiMicrosoft",
-      "TiFileCode",
-      "TiCode",
-      "SiCsharp"
+      "SiMicrosoft"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -51,5 +51,9 @@
   "Microsoft/Programas Microsoft.md": "SiMicrosoft",
   "Neovim/Comandos do VIM.md": "SiNeovim",
   "Neovim/Neovim como IDE.md": "SiNeovim",
-  "Neovim/Neovim Videos.md": "SiNeovim"
+  "Neovim/Neovim Videos.md": "SiNeovim",
+  "Jogos": "IbGames",
+  "Jogos/Borderlands 3": "IbGames",
+  "Jogos/Borderlands 3/Diamond Keys": "TiDiamond",
+  "Obsidian/Baixando obsidian.md": "SiObsidian"
 }
