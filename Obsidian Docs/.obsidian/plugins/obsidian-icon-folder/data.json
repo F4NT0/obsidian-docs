@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": "#9959d9",
     "recentlyUsedIcons": [
-      "TiFlame",
-      "RiDeleteBack2Line",
-      "LiTerminalSquare",
-      "SiObsidian",
-      "TiDiamond"
+      "FabPerson",
+      "RiTaskLine",
+      "SiExercism",
+      "RiHeartFill",
+      "💍"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -60,5 +60,10 @@
   "Programas/Resumo de Websites.md": "TiWorldShare",
   "Programas/Utilizando Remove.bg.md": "RiDeleteBack2Line",
   "Programas/Flameshot - Print Screen.md": "TiFlame",
-  "Obsidian/Entendendo Obsidian.md": "SiObsidian"
+  "Obsidian/Entendendo Obsidian.md": "SiObsidian",
+  "Pessoal/Festa de Formatura.md": "LiGraduationCap",
+  "Pessoal/Meu casamento.md": "RiHeartFill",
+  "Pessoal/Progresso.md": "SiExercism",
+  "Pessoal/Tarefas.md": "RiTaskLine",
+  "Pessoal/Vida Pessoal.md": "FabPerson"
 }

@@ -31,12 +31,40 @@
             "id": "a06c010844954801",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Estrutura de dados/Revisão de Estruturas de dados.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e77dbe99673712ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Work/Agenda de Trabalho.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b89c96fa9f67200f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pessoal/Festa de Formatura.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -86,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 200
   },
   "right": {
     "id": "b4f7f456cab52e04",
@@ -102,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pessoal/Festa de Formatura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pessoal/Festa de Formatura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pessoal/Festa de Formatura.md"
+              }
             }
           },
           {
@@ -195,9 +227,20 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "a06c010844954801",
+  "active": "806d60e9e73b11d2",
   "lastOpenFiles": [
+    "images/Formatura",
+    "Pessoal/Meu casamento.md",
     "Pessoal/Festa de Formatura.md",
+    "Pessoal/Vida Pessoal.md",
+    "images/Untitled.md",
+    "Calendar/Work/Agenda de Trabalho.md",
+    "Calendar/Importants/2023-10-22 Festa de Formatura.md",
+    "Calendar/Importants/2023-10-07 Fotos Formatura.md",
+    "Estrutura de dados/Revisão de Estruturas de dados.md",
+    "Estrutura de dados/4 - Árvores.md",
+    "Estrutura de dados/2 - Listas.md",
+    "Estrutura de dados/1 - TAD.md",
     "Obsidian/Entendendo Obsidian.md",
     "Programas/Programas e Websites.md",
     "Programas/Flameshot - Print Screen.md",
@@ -210,23 +253,12 @@
     "Jogos/Borderlands 3/Diamond Keys/Videos.md",
     "Calendar/Google Calendar/My Google Calendar.md",
     "Calendar/Work/(Every F,R,W,T,M) Daily Meeting.md",
-    "Estrutura de dados/1 - TAD.md",
     "Markdown/Definindo bloco de infos importantes.md",
     "Jogos/Borderlands 3/Diamond Keys",
     "Jogos/Borderlands 3",
     "Jogos",
     "Calendar/Work/2023-09-21 Q3 DFS ALL HANDS.md",
     "Calendar/Importants/2023-09-20 FERIADO.md",
-    "Calendar/Work/Agenda de Trabalho.md",
-    "Calendar/Importants/Eventos Importantes.md",
-    "Calendar/Importants/2023-09-14 Formatura.md",
-    "Calendar/Work/(Every R,W,T,M) CI-CD Meeting.md",
-    "Markdown/Escrevendo em Markdown.md",
-    "Markdown/LATEX.md",
-    "Markdown/Títulos.md",
-    "Microsoft/Programas Microsoft.md",
-    "Estrutura de dados/Revisão de Estruturas de dados.md",
-    "Microsoft/Powershell/Configurando Powershell.md",
     "images/Pasted image 20230916041755.png",
     "images/Microsoft/csharp/console-project/1.png",
     "1.png",
