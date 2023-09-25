@@ -14,57 +14,8 @@
               "type": "full-calendar-view",
               "state": {}
             }
-          },
-          {
-            "id": "a0f2a022359d4a32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pessoal/Festa de Formatura.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a06c010844954801",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estrutura de dados/Revisão de Estruturas de dados.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e77dbe99673712ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Work/Agenda de Trabalho.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b89c96fa9f67200f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pessoal/Festa de Formatura.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pessoal/Festa de Formatura.md",
+                "file": "Calendar/Calendário Pessoal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pessoal/Festa de Formatura.md",
+                "file": "Calendar/Calendário Pessoal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pessoal/Festa de Formatura.md"
+                "file": "Calendar/Calendário Pessoal.md"
               }
             }
           },
@@ -227,11 +178,11 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "806d60e9e73b11d2",
+  "active": "21d6005890323378",
   "lastOpenFiles": [
+    "Pessoal/Festa de Formatura.md",
     "images/Formatura",
     "Pessoal/Meu casamento.md",
-    "Pessoal/Festa de Formatura.md",
     "Pessoal/Vida Pessoal.md",
     "images/Untitled.md",
     "Calendar/Work/Agenda de Trabalho.md",
@@ -274,7 +225,6 @@
     "images/Microsoft/csharp",
     "images/Microsoft/Nova pasta",
     "images/Microsoft",
-    "images/Nova pasta",
     "Untitled.canvas"
   ]
 }
