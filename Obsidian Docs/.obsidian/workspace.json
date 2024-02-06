@@ -4,24 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "d9f2e7c7cb6a95be",
+        "id": "e336e529f99e0739",
         "type": "tabs",
         "children": [
           {
-            "id": "21d6005890323378",
+            "id": "4dfd1520d5140fdf",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Microsoft/API REST .NET/BRAINSTORM.canvas",
+                "viewState": {
+                  "x": 989.7361634288002,
+                  "y": -45.141446274546574,
+                  "zoom": -1.1836767985696364
+                }
+              }
             }
           },
           {
-            "id": "21e6c3862e53fde9",
+            "id": "b557064f576addc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown/Escrevendo em Markdown.md",
+                "file": "images/Básico de REST.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 282.5
   },
   "right": {
     "id": "b4f7f456cab52e04",
@@ -94,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown/Escrevendo em Markdown.md",
+                "file": "images/Básico de REST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown/Escrevendo em Markdown.md",
+                "file": "images/Básico de REST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown/Escrevendo em Markdown.md"
+                "file": "images/Básico de REST.md"
               }
             }
           },
@@ -191,11 +198,23 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "21e6c3862e53fde9",
+  "active": "b557064f576addc4",
   "lastOpenFiles": [
-    "images/Untitled.md",
+    "Microsoft/API REST .NET/BRAINSTORM.canvas",
+    "images/Básico de REST.md",
+    "Microsoft/API REST .NET/Delete.png",
+    "Microsoft/API REST .NET/Update.png",
+    "Microsoft/API REST .NET/Update.png",
+    "Microsoft/API REST .NET/Conjunto de constraints.png",
+    "Microsoft/API REST .NET/Create.png",
+    "Microsoft/API REST .NET/Conjunto de Status Codes.png",
+    "Microsoft/API REST .NET/Read.png",
+    "Microsoft/API REST .NET/CRUD.png",
+    "Microsoft/API REST .NET/Status de erro 2.png",
+    "Microsoft/API REST .NET/Status de Erros.png",
+    "Markdown/Escrevendo em Markdown.md",
+    "Microsoft/API REST .NET",
     "images/Passo a passo Deploy.md",
-    "images/Pasted image 20230916041755.png",
     "Neovim/Neovim Videos.md",
     "Neovim/Neovim como IDE.md",
     "Neovim/Comandos do VIM.md",
@@ -213,32 +232,20 @@
     "Markdown/Títulos Avançados.md",
     "Markdown/Títulos.md",
     "Markdown/LATEX.md",
-    "Markdown/Escrevendo em Markdown.md",
     "Markdown/Definindo bloco de infos importantes.md",
     "Jogos/Borderlands 3/Diamond Keys/Videos.md",
     "Jogos/Borderlands 3/Borderlands Franquia.md",
     "Calendar/CFC/2023-09-13 CFC - Aula 3-4.md",
     "Calendar/CFC/2023-09-12 CFC - Aula 1-2.md",
-    "Calendar/CFC/Aulas Práticas de direção.md",
     "images/Formatura",
     "Obsidian/Android",
     "Jogos/Borderlands 3/Diamond Keys",
     "Jogos/Borderlands 3",
     "Jogos",
-    "images/Microsoft/csharp/console-project/1.png",
-    "1.png",
-    "images/Microsoft/csharp/console-project/14.png",
-    "images/Microsoft/csharp/console-project/13.png",
-    "images/Microsoft/csharp/console-project/12.png",
-    "images/Microsoft/csharp/console-project/11.png",
-    "images/Microsoft/csharp/console-project/10.png",
-    "images/Microsoft/csharp/console-project/9.png",
-    "images/Microsoft/csharp/console-project/8.png",
     "images/Microsoft/csharp/console-project",
     "images/Microsoft/csharp/Nova pasta",
     "images/Microsoft/csharp",
     "images/Microsoft/Nova pasta",
-    "images/Microsoft",
     "Untitled.canvas"
   ]
 }

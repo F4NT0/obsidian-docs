@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": "#9959d9",
     "recentlyUsedIcons": [
+      "SiDotnet",
       "SiMarkdown",
       "FabPerson",
       "RiTaskLine",
-      "SiExercism",
-      "RiHeartFill"
+      "SiExercism"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,5 +46,6 @@
   "Pessoal/Meu casamento.md": "RiHeartFill",
   "Pessoal/Progresso.md": "SiExercism",
   "Pessoal/Tarefas.md": "RiTaskLine",
-  "Pessoal/Vida Pessoal.md": "FabPerson"
+  "Pessoal/Vida Pessoal.md": "FabPerson",
+  "Microsoft/API REST .NET": "SiDotnet"
 }
