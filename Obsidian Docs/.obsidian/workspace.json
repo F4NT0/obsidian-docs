@@ -14,8 +14,21 @@
               "type": "full-calendar-view",
               "state": {}
             }
+          },
+          {
+            "id": "21e6c3862e53fde9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown/Escrevendo em Markdown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Calendário Pessoal.md",
+                "file": "Markdown/Escrevendo em Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Calendário Pessoal.md",
+                "file": "Markdown/Escrevendo em Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Calendário Pessoal.md"
+                "file": "Markdown/Escrevendo em Markdown.md"
               }
             }
           },
@@ -178,39 +191,40 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "21d6005890323378",
+  "active": "21e6c3862e53fde9",
   "lastOpenFiles": [
-    "Pessoal/Festa de Formatura.md",
-    "images/Formatura",
-    "Pessoal/Meu casamento.md",
-    "Pessoal/Vida Pessoal.md",
     "images/Untitled.md",
-    "Calendar/Work/Agenda de Trabalho.md",
-    "Calendar/Importants/2023-10-22 Festa de Formatura.md",
-    "Calendar/Importants/2023-10-07 Fotos Formatura.md",
-    "Estrutura de dados/Revisão de Estruturas de dados.md",
-    "Estrutura de dados/4 - Árvores.md",
-    "Estrutura de dados/2 - Listas.md",
-    "Estrutura de dados/1 - TAD.md",
-    "Obsidian/Entendendo Obsidian.md",
-    "Programas/Programas e Websites.md",
+    "images/Passo a passo Deploy.md",
+    "images/Pasted image 20230916041755.png",
+    "Neovim/Neovim Videos.md",
+    "Neovim/Neovim como IDE.md",
+    "Neovim/Comandos do VIM.md",
     "Programas/Flameshot - Print Screen.md",
-    "Programas/Resumo de Websites.md",
-    "Programas/Utilizando Remove.bg.md",
-    "Obsidian/Android/Termux GIT.md",
+    "Pessoal/Vida Pessoal.md",
+    "Pessoal/Tarefas.md",
+    "Pessoal/Progresso.md",
+    "Pessoal/Meu casamento.md",
+    "Pessoal/Festa de Formatura.md",
+    "Obsidian/Entendendo Obsidian.md",
     "Obsidian/Baixando obsidian.md",
-    "Obsidian/Android",
-    "Jogos/Borderlands 3/Borderlands Franquia.md",
-    "Jogos/Borderlands 3/Diamond Keys/Videos.md",
-    "Calendar/Google Calendar/My Google Calendar.md",
-    "Calendar/Work/(Every F,R,W,T,M) Daily Meeting.md",
+    "Microsoft/Programas Microsoft.md",
+    "Microsoft/Csharp/1 - Linguagem Csharp.md",
+    "Microsoft/Csharp/3 - Criando um projeto console.md",
+    "Markdown/Títulos Avançados.md",
+    "Markdown/Títulos.md",
+    "Markdown/LATEX.md",
+    "Markdown/Escrevendo em Markdown.md",
     "Markdown/Definindo bloco de infos importantes.md",
+    "Jogos/Borderlands 3/Diamond Keys/Videos.md",
+    "Jogos/Borderlands 3/Borderlands Franquia.md",
+    "Calendar/CFC/2023-09-13 CFC - Aula 3-4.md",
+    "Calendar/CFC/2023-09-12 CFC - Aula 1-2.md",
+    "Calendar/CFC/Aulas Práticas de direção.md",
+    "images/Formatura",
+    "Obsidian/Android",
     "Jogos/Borderlands 3/Diamond Keys",
     "Jogos/Borderlands 3",
     "Jogos",
-    "Calendar/Work/2023-09-21 Q3 DFS ALL HANDS.md",
-    "Calendar/Importants/2023-09-20 FERIADO.md",
-    "images/Pasted image 20230916041755.png",
     "images/Microsoft/csharp/console-project/1.png",
     "1.png",
     "images/Microsoft/csharp/console-project/14.png",

@@ -49,6 +49,6 @@ Existem muitos recursos disponíveis para aprender C# e a plataforma .NET. Aqui 
 
 ### Páginas
 
-1. [[Organizando os estudos]]
-2. [[Criando um projeto console]]
+1. [[2 - Organizando os estudos]]
+2. [[3 - Criando um projeto console]]
 3. 
