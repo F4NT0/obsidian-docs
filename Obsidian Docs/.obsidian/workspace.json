@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Microsoft/API REST .NET/BRAINSTORM.canvas",
+                "file": "Microsoft/API REST .NET/Csharp & Dotnet.canvas",
                 "viewState": {
-                  "x": 989.7361634288002,
-                  "y": -45.141446274546574,
-                  "zoom": -1.1836767985696364
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
@@ -34,8 +34,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Básico de REST.md",
+                "file": "Microsoft/API REST .NET/Csharp & Dotnet.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Básico de REST.md",
+                "file": "Microsoft/API REST .NET/Csharp & Dotnet.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Básico de REST.md"
+                "file": "Microsoft/API REST .NET/Csharp & Dotnet.canvas"
               }
             }
           },
@@ -198,20 +197,22 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "b557064f576addc4",
+  "active": "4dfd1520d5140fdf",
   "lastOpenFiles": [
-    "Microsoft/API REST .NET/BRAINSTORM.canvas",
+    "Microsoft/API REST .NET/images/Create.png",
+    "Microsoft/API REST .NET/Csharp & Dotnet.canvas",
+    "Microsoft/API REST .NET/images/Update.png",
+    "Microsoft/API REST .NET/images",
+    "Microsoft/API REST .NET/REST.canvas",
+    "Untitled",
     "images/Básico de REST.md",
-    "Microsoft/API REST .NET/Delete.png",
-    "Microsoft/API REST .NET/Update.png",
-    "Microsoft/API REST .NET/Update.png",
-    "Microsoft/API REST .NET/Conjunto de constraints.png",
-    "Microsoft/API REST .NET/Create.png",
-    "Microsoft/API REST .NET/Conjunto de Status Codes.png",
-    "Microsoft/API REST .NET/Read.png",
-    "Microsoft/API REST .NET/CRUD.png",
-    "Microsoft/API REST .NET/Status de erro 2.png",
-    "Microsoft/API REST .NET/Status de Erros.png",
+    "Microsoft/API REST .NET/images/Delete.png",
+    "Microsoft/API REST .NET/images/Conjunto de constraints.png",
+    "Microsoft/API REST .NET/images/Conjunto de Status Codes.png",
+    "Microsoft/API REST .NET/images/Read.png",
+    "Microsoft/API REST .NET/images/CRUD.png",
+    "Microsoft/API REST .NET/images/Status de erro 2.png",
+    "Microsoft/API REST .NET/images/Status de Erros.png",
     "Markdown/Escrevendo em Markdown.md",
     "Microsoft/API REST .NET",
     "images/Passo a passo Deploy.md",
@@ -244,8 +245,6 @@
     "Jogos",
     "images/Microsoft/csharp/console-project",
     "images/Microsoft/csharp/Nova pasta",
-    "images/Microsoft/csharp",
-    "images/Microsoft/Nova pasta",
     "Untitled.canvas"
   ]
 }
