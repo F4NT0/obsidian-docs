@@ -11,24 +11,9 @@
             "id": "4dfd1520d5140fdf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Microsoft/API REST .NET/Csharp & Dotnet.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "b557064f576addc4",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "images/Básico de REST.md",
+                "file": "Microsoft/API REST .NET/Básico de REST.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microsoft/API REST .NET/Csharp & Dotnet.canvas",
+                "file": "Microsoft/API REST .NET/Básico de REST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microsoft/API REST .NET/Csharp & Dotnet.canvas",
+                "file": "Microsoft/API REST .NET/Básico de REST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microsoft/API REST .NET/Csharp & Dotnet.canvas"
+                "file": "Microsoft/API REST .NET/Básico de REST.md"
               }
             }
           },
@@ -197,15 +182,17 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "4dfd1520d5140fdf",
+  "active": "806d60e9e73b11d2",
   "lastOpenFiles": [
-    "Microsoft/API REST .NET/images/Create.png",
+    "Microsoft/API REST .NET/images/JWT token.png",
+    "Microsoft/API REST .NET/REST.canvas",
     "Microsoft/API REST .NET/Csharp & Dotnet.canvas",
+    "Microsoft/API REST .NET/images/Swagger.png",
+    "Microsoft/API REST .NET/Básico de REST.md",
+    "Microsoft/API REST .NET/images/Create.png",
     "Microsoft/API REST .NET/images/Update.png",
     "Microsoft/API REST .NET/images",
-    "Microsoft/API REST .NET/REST.canvas",
     "Untitled",
-    "images/Básico de REST.md",
     "Microsoft/API REST .NET/images/Delete.png",
     "Microsoft/API REST .NET/images/Conjunto de constraints.png",
     "Microsoft/API REST .NET/images/Conjunto de Status Codes.png",
